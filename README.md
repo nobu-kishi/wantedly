@@ -20,8 +20,8 @@ AWS と Java/Spring Boot を中心に、インフラ構築からアプリケー�
 
 ■主な技術スタック
 # クラウド
-　AWS（ECS/Lambda/ALB/EC2/EventBridge/StepFunctions/SQS/DynamoDB/Aurora/S3/Athena/CodePipeline）
-　Azure（ACA/VM/Bastion/AppGW/VNet/NSG/PrivateDNS/PostgreSQL FlexServer/ACR）
+　AWS: ECS/Lambda/ALB/EC2/EventBridge/StepFunctions/SQS/DynamoDB/Aurora/S3/CodePipeline
+　Azure: ACA/VM/Bastion/AppGW/VNet/NSG/PrivateDNS/PostgreSQL FlexServer/ACR
 # 言語
 　Java/JavaScript/Python/ShellScript/HCL
 # フレームワーク
