@@ -21,7 +21,7 @@ AWS と Java/Spring Boot を中心に、インフラ構築からアプリケー�
 ■主な技術スタック
 # クラウド
 　AWS（ECS/Lambda/ALB/EC2/EventBridge/StepFunctions/SQS/DynamoDB/Aurora/S3/Athena/CodePipeline）
-　Azure（ACA/VM/Bastion/AppGW/Vnet/NSG/PrivateDNS/PostgreSQL FlexServer/ACR）
+　Azure（ACA/VM/Bastion/AppGW/VNet/NSG/PrivateDNS/PostgreSQL FlexServer/ACR）
 # 言語
 　Java/JavaScript/Python/ShellScript/HCL
 # フレームワーク
@@ -62,7 +62,7 @@ AWS と Java/Spring Boot を中心に、インフラ構築からアプリケー�
 
  # 技術調査・検証作業
 ・技術調査（各サービスクォータ、負荷テストツール、Terraformの代替ツールなど）
-・AWSからAzureへの代替サービス調査及び構築（ACA、Vnet、AppGW、VMなど）
+・AWSからAzureへの代替サービス調査及び構築（ACA、VNet、AppGW、VMなど）
 ・Dockerサンプルアプリ作成およびCI/CD動作検証（Java、C#）
 
 ■工夫点・成果
