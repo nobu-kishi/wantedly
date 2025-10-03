@@ -21,7 +21,7 @@ AWS と Java/Spring Boot を中心に、インフラ構築からアプリケー�
 ■主な技術スタック
 # クラウド
 　AWS: ECS/Lambda/ALB/EC2/EventBridge/StepFunctions/SQS/DynamoDB/Aurora/S3/CodePipeline
-　Azure: ACA/VM/Bastion/AppGW/VNet/NSG/PrivateDNS/PostgreSQL FlexServer/ACR
+　Azure: ACA/VM/Bastion/AppGW/VNet/NSG/PrivateDNS/PostgreSQL FlexibleServer/ACR
 # 言語
 　Java/JavaScript/Python/ShellScript/HCL
 # フレームワーク
@@ -43,7 +43,7 @@ AWS と Java/Spring Boot を中心に、インフラ構築からアプリケー�
 
 ```
 ■概要
-・レガシーアプリのクラウドプラットフォーム構築
+・レガシーアプリのクラウド移行・共通基盤構築
 
 ■規模・役割
 ・全体：約20名／チーム：4名
@@ -159,8 +159,7 @@ AWS と Java/Spring Boot を中心に、インフラ構築からアプリケー�
 ・数百リポジトリから問い合わせの該当コード特定・仕様解析し、問い合わせ者に解決策を提案
 ---------------------------------------------------------------------------------------------------------------------
 ■概要
-・Web申込機能の改修
-・新規契約、契約追加機能の設計・実装
+・Web契約申込機能（新規・追加）の設計・実装
 
 ■規模・役割
 ・全体：11名／チーム：３名
